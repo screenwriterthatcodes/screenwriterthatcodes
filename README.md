@@ -5,7 +5,7 @@
 
 <p align="center">I code because I have to.</p>
 
-<h2 align="center">Able To Make Barely Working Code With:</h2>
+<h2 align="center">Able To Make Barely Working Stuff With:</h2>
 
 <p align="center">
   
