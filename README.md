@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/powered by-coffee-964B00?style=for-the-badge&labelColor=4D4D4D"> 
   </p>
 
-<p align="center">I try to make useful things.</p>
+<p align="center">I code because I have to.</p>
 
 <h2 align="center">Able To Make Barely Working Code With:</h2>
 
